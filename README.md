@@ -16,8 +16,6 @@
 
 ###Setup Instructions
 
->Clone GitHub repository to your local machine.
-
 1. Clone GitHub repository to your local machine.
 1. Open the *index.html* in your web browser.
 
