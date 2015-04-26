@@ -7,7 +7,6 @@
 ###Description
 
 >I completed the "Layout" test to get admitted to Epicodus and proof that I was able to use Bootstrap. 
->I had to submit it to them for my admission to the PHP session.
 
 ###Technologies Used  
 
